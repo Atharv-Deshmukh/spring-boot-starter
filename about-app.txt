@@ -1,0 +1,2 @@
+This is a basic application, which can be used to understand the structure of springboot. 
+To see all the endpoints use: localhost:8080/swagger-ui.html
